@@ -6,4 +6,5 @@ Usage : ./plazza [cooking time multiplier]  [number of cook(s) per kitchen]  [re
 Command format : [pizza] [size] [number]; [pizza] [size] [number]; ....
 
 Valid pizza : Regina / Margarita / Americana / Fantasia
+
 Valid size : S / M / L / XL / XXL
